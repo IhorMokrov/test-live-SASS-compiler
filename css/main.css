@@ -1,0 +1,10 @@
+.container {
+  color: red;
+}
+
+.button {
+  color: black;
+}
+.button:hover .container {
+  background-color: pink;
+}/*# sourceMappingURL=main.css.map */

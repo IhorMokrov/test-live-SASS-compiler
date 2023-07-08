@@ -1,0 +1,11 @@
+.container {
+  color: red;
+}
+
+.button {
+  color: black;
+
+  &:hover .container {
+    background-color: pink;
+  }
+}
